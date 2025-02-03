@@ -2,10 +2,7 @@ h1 {
     font-size: 34px;
     color: steelblue;
 }
-q {
-    font-family: monospace;
-    font-style: oblique;
-}
+
 body {
     background-color:lightcyan;
 }
@@ -14,7 +11,4 @@ body {
 }
 button {
     color: steelblue;
-}
-.list {
-    margin-bottom: 20px;
 }
